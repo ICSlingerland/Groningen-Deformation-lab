@@ -1,2 +1,3 @@
 # Groningen-Deformation-lab
-Assignement for B-module from AES master Earth Observations 
+Assignment for B-module from AES master Earth Observations 
+Using GNSS and Insar data
